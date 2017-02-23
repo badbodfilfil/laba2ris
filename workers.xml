@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet href="workers.xsl" type="text/xsl"?>
+
+	<workers>
+		<worker ID="1">
+				<name>Fil</name>
+				<surname>Fil</surname>
+				<salary>4000</salary>
+				<phone>+375336457428</phone>
+		</worker>
+		<worker ID="2">
+				<name>Alex</name>
+				<surname>Shulge</surname>
+				<salary>1000</salary>
+				<phone>+375331239838</phone>
+		</worker>
+		<worker ID="3">
+				<name>Andre</name>
+				<surname>Shalu</surname>
+				<salary>1000</salary>
+				<phone>+375337654647</phone>
+		</worker>
+		<worker ID="4">
+				<name>Vlade</name>
+				<surname>Karpo</surname>
+				<salary>1500</salary>
+				<phone>+375338209038</phone>
+		</worker>
+		<worker ID="5">
+				<name>Olesko</name>
+				<surname>Lokeia</surname>
+				<salary>3000</salary>
+				<phone>+375448893829</phone>
+		</worker>
+	</workers>
